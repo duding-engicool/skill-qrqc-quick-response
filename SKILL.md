@@ -1,5 +1,7 @@
 ---
 name: qrqc-quick-response
+slug: qrqc-quick-response
+displayName: QRQC快速响应
 version: 1.0.0
 description: 面向生产现场班组长与制造/质量主管的 QRQC 快速响应技能，当日异常即时上板、班次内闭环、日清日结。
 ---
